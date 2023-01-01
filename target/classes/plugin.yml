@@ -1,0 +1,5 @@
+name: Join
+api: ["1.0.13"]
+version: "0.1" 
+main: MrForter.join.MeJoin
+author: "MrForter"
